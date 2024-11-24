@@ -1,0 +1,37 @@
+C:\Users\suporte.ACAD\Desktop\CrudFuncionario\CrudFuncionario\bin\Debug\CrudFuncionario.exe.config
+C:\Users\suporte.ACAD\Desktop\CrudFuncionario\CrudFuncionario\obj\Debug\CrudFuncionario.csprojResolveAssemblyReference.cache
+C:\Users\suporte.ACAD\Desktop\CrudFuncionario\CrudFuncionario\obj\Debug\CrudFuncionario.Form1.resources
+C:\Users\suporte.ACAD\Desktop\CrudFuncionario\CrudFuncionario\obj\Debug\CrudFuncionario.FrmFuncionario.resources
+C:\Users\suporte.ACAD\Desktop\CrudFuncionario\CrudFuncionario\obj\Debug\CrudFuncionario.Properties.Resources.resources
+C:\Users\suporte.ACAD\Desktop\CrudFuncionario\CrudFuncionario\obj\Debug\CrudFuncionario.csproj.GenerateResource.Cache
+D:\Crud Funcionarios\CrudFuncionario\CrudFuncionario\bin\Debug\CrudFuncionario.exe.config
+D:\Crud Funcionarios\CrudFuncionario\CrudFuncionario\bin\Debug\CrudFuncionario.exe
+D:\Crud Funcionarios\CrudFuncionario\CrudFuncionario\bin\Debug\CrudFuncionario.pdb
+D:\Crud Funcionarios\CrudFuncionario\CrudFuncionario\bin\Debug\BouncyCastle.Crypto.dll
+D:\Crud Funcionarios\CrudFuncionario\CrudFuncionario\bin\Debug\Google.Protobuf.dll
+D:\Crud Funcionarios\CrudFuncionario\CrudFuncionario\bin\Debug\K4os.Compression.LZ4.dll
+D:\Crud Funcionarios\CrudFuncionario\CrudFuncionario\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Crud Funcionarios\CrudFuncionario\CrudFuncionario\bin\Debug\K4os.Hash.xxHash.dll
+D:\Crud Funcionarios\CrudFuncionario\CrudFuncionario\bin\Debug\MySql.Data.dll
+D:\Crud Funcionarios\CrudFuncionario\CrudFuncionario\bin\Debug\System.Buffers.dll
+D:\Crud Funcionarios\CrudFuncionario\CrudFuncionario\bin\Debug\System.Memory.dll
+D:\Crud Funcionarios\CrudFuncionario\CrudFuncionario\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Crud Funcionarios\CrudFuncionario\CrudFuncionario\bin\Debug\Ubiety.Dns.Core.dll
+D:\Crud Funcionarios\CrudFuncionario\CrudFuncionario\bin\Debug\ZstdNet.dll
+D:\Crud Funcionarios\CrudFuncionario\CrudFuncionario\bin\Debug\BouncyCastle.Crypto.xml
+D:\Crud Funcionarios\CrudFuncionario\CrudFuncionario\bin\Debug\Google.Protobuf.pdb
+D:\Crud Funcionarios\CrudFuncionario\CrudFuncionario\bin\Debug\Google.Protobuf.xml
+D:\Crud Funcionarios\CrudFuncionario\CrudFuncionario\bin\Debug\K4os.Compression.LZ4.xml
+D:\Crud Funcionarios\CrudFuncionario\CrudFuncionario\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Crud Funcionarios\CrudFuncionario\CrudFuncionario\bin\Debug\K4os.Hash.xxHash.xml
+D:\Crud Funcionarios\CrudFuncionario\CrudFuncionario\bin\Debug\MySql.Data.xml
+D:\Crud Funcionarios\CrudFuncionario\CrudFuncionario\bin\Debug\System.Buffers.xml
+D:\Crud Funcionarios\CrudFuncionario\CrudFuncionario\bin\Debug\System.Memory.xml
+D:\Crud Funcionarios\CrudFuncionario\CrudFuncionario\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Crud Funcionarios\CrudFuncionario\CrudFuncionario\obj\Debug\CrudFuncionario.csprojResolveAssemblyReference.cache
+D:\Crud Funcionarios\CrudFuncionario\CrudFuncionario\obj\Debug\CrudFuncionario.Form1.resources
+D:\Crud Funcionarios\CrudFuncionario\CrudFuncionario\obj\Debug\CrudFuncionario.FrmFuncionario.resources
+D:\Crud Funcionarios\CrudFuncionario\CrudFuncionario\obj\Debug\CrudFuncionario.Properties.Resources.resources
+D:\Crud Funcionarios\CrudFuncionario\CrudFuncionario\obj\Debug\CrudFuncionario.csproj.GenerateResource.Cache
+D:\Crud Funcionarios\CrudFuncionario\CrudFuncionario\obj\Debug\CrudFuncionario.exe
+D:\Crud Funcionarios\CrudFuncionario\CrudFuncionario\obj\Debug\CrudFuncionario.pdb
